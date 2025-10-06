@@ -74,7 +74,7 @@ media = (x + y + z) / 3
 
 print(f'a média de notas do aluno é = {media}')
 
-#média ponderada entre valores ja pré-definidos
+#média ponderada entre valores ja pré-definidos, sendo eles 5 - 12 - 20 - 15
 
 x = 5
 peso1 = 1
